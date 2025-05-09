@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tiaraclyde
-- 👀 I’m interested in AI/ML/SWE
-- 🌱 I’m currently learning C and C++
+- 👀 I’m interested in SWE
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me tiaraclyde@gmail.com
 - ⚡ Fun fact: I love to sing
