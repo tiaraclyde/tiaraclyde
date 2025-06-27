@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiaraclyde
-- 👀 I’m interested in SWE
+- 👀 SWE intern @ Microsoft
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me tiaraclyde@gmail.com
 - ⚡ Fun fact: I love to sing
